@@ -1,3 +1,6 @@
+#two changes
+#1.added a route to return JSON
+#2.Using GoogLeNet instead of the reference moidel
 import os
 import time
 import cPickle
