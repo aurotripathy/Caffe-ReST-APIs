@@ -1,6 +1,5 @@
-# ImageUnderstanding
+#Added a new route decorator for returning JSON 
 
-#added a new route decorator for returning JSON 
 @app.route('/classify_upload_json', methods=['POST'])
 def classify_upload_json():
     try:
